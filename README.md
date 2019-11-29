@@ -1,3 +1,3 @@
 Functional Programming in Java using Streams
 
-Filters, Maps, MaptoInt, FlatMap, filereading using streams,
+Filters, Maps, MaptoInt, FlatMap, filereading using streams, Lambda expressions.
