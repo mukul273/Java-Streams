@@ -1,3 +1,3 @@
 Functional Programming in Java using Streams
 
-Filters, Maps, MaptoInt.
+Filters, Maps, MaptoInt, FlatMap
